@@ -343,6 +343,16 @@ section {
   margin-bottom: 0;
 }
 
+ol.number {
+  /* padding: 0; */
+}
+
+ol.number li{
+  margin-bottom: 20px;
+  /* display: flex;
+  align-items: center;  */
+}
+
 ul.bullet {
   list-style: none;
   padding: 0;
